@@ -32,7 +32,7 @@ interface IERC20 {
     );
 }
 
-contract NSwap {
+contract Nswap {
     address public token1;
     address public token2;
     uint256 public reserveA;
